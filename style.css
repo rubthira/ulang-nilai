@@ -1,0 +1,19 @@
+tbody{
+    background-color: rgb(255, 0, 183);
+}
+table{
+    text-align: center;
+  
+}
+.mt-4{
+    text-align: center;
+    padding: 20px;
+}
+.row1{
+    text-align: center;
+    padding: 20px;
+}
+
+thead,tr,th-col{
+    background-color: rgb(255, 0, 183);
+}
